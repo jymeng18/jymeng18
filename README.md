@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Jerry+!;" />
 </h1>
 
-<h3 align="center">A 2nd Year CS Student @SFU</h3>
+<h3 align="center">I'm a 2nd Year CS Student @SFU</h3>
 
 <br/>
 
 <div align="center">
  
-  I’m currently working on obtaining a Co-op at SFU
+  I’m currently working on obtaining a Co-op/Internship
  
   I’m currently learning **Docker, Supabase, AWS**
 
@@ -32,8 +32,8 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c,java,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,docker,vercel,render,neovim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c,java,flask,django,springboot" /><br>
 </div>
 
 <br/>
