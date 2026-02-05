@@ -4,9 +4,7 @@
 
 <div align="center">
  
-  I’m currently working on obtaining a Co-op/Internship
- 
-  I’m currently learning **Docker, Supabase, AWS**
+  I’m currently learning **Docker, Azure, AWS**
 
  Hobbies: **Reading, Working on Personal Projects**
 
