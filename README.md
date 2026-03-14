@@ -3,10 +3,8 @@
 <br/>
 
 <div align="center">
- 
-  I’m currently learning **Docker, Azure, AWS**
 
- Hobbies: **Reading, Working on Personal Projects**
+ Hobbies: **Reading, Cooking and Cooking**
 
  </div>
  
