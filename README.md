@@ -1,12 +1,6 @@
 <h3 align="center">I'm a 2nd Year CS Student @SFU</h3>
 
 <br/>
-
-<div align="center">
-
- Hobbies: **Reading, Cooking and Cooking**
-
- </div>
  
 <div align="center"> 
   <a href="jma304@sfu.ca">
